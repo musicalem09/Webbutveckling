@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(0, 174, 255);
+}
+body > lang\=\"sv\":nth-child(1) > h1:nth-child(4) {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+#inriktning p {
+  background-color: bisque;
+}
+
+
+#inriktning {
+  position: unset;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+
+#omKursen {
+    margin-left: 75%;
+
+
+}
+
+a:link {
+  text-decoration: none;
+}
+
+
+body > lang\=\"sv\":nth-child(1) > p:nth-child(5) {
+  border-color: crimson;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-right-width: 3px;
+  border-right-style: solid;
+  border-left-width: 3px;
+  border-left-style: solid;
+}
